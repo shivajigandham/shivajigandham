@@ -1,12 +1,12 @@
 # Hi there, I'm Shivaji! 👋
 🏆 Goals for 2027
-__________________________________________..
-✅ Crack GATE CSE.                        *:
-✅ Build Strong Cyber Security Portfolio. *:
-✅ Contribute to Open Source Projects.    *:
-✅ Earn Industry Certifications.          *:  
-✅ Pursue M.Tech from a Top Institute.    *:
-__________________________________________*.
+_________________________________________________.
+-**✅ Crack GATE CSE. **                        *:
+-**✅ Build Strong Cyber Security Portfolio. ** *:
+-**✅ Contribute to Open Source Projects. **    *:
+-**✅ Earn Industry Certifications.    **       *:  
+-**✅ Pursue M.Tech from a Top Institute.  **   *:
+________________________________________________*.
 ### 🛠️ My Tech Stack
 
 - **Languages:** `Python`, `JavaScript`, `TypeScript`, `C/C++`, `Bash`, `PowerShell`
