@@ -1,10 +1,10 @@
 # Hi there, I'm Shivaji! 👋
-
-## 🚀 Associate Test Automation Engineer | System Admin | Security Enthusiast
-
-I'm a detail-oriented professional with a strong foundation in **System Administration**, **Web Security**, and **Cloud Infrastructure**. Currently, I'm focusing on **Test Automation Engineering**, building robust frameworks to ensure software quality and security.
-
----
+🏆 Goals for 2027
+✅ Crack GATE CSE
+✅ Build Strong Cyber Security Portfolio
+✅ Contribute to Open Source Projects
+✅ Earn Industry Certifications
+✅ Pursue M.Tech from a Top Institute
 
 ### 🛠️ My Tech Stack
 
@@ -23,6 +23,9 @@ I'm a detail-oriented professional with a strong foundation in **System Administ
 - 📧 **[Gmail Automation](https://github.com/shivajigandham/read_gmail.py)** - Python tools for automated job-search filtering via Gmail API.
 - 🏗️ **[OpenAFS Stress Test](https://github.com/shivajigandham/openafs-filesystem-stress-test-framework)** - Framework for filesystem stress testing and reliability.
 
+
+⚡ Fun Fact
+"Learning never stops. Every bug fixed, every project built, and every challenge solved makes us better engineers."
 ---
 
 ### 📊 GitHub Stats
